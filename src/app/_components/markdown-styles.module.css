@@ -9,6 +9,20 @@
   @apply my-6;
 }
 
+.markdown a {
+  text-decoration: underline;
+}
+
+.markdown blockquote {
+  font-style: italic;
+  @apply text-2xl my-4 py-1 px-2 bg-slate-500/10 rounded-xl;
+}
+
+.markdown ol {
+  list-style-type: decimal;
+  list-style-position: inside;
+}
+
 .markdown h2 {
   @apply text-3xl mt-12 mb-4 leading-snug;
 }

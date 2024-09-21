@@ -38,7 +38,7 @@ All right, you are probably wondering what integer division and modulo are, so l
 
 The modulo operator gives you the reminder left over from a division. For example, the modulo of 5 and 2 is 1. Think of it like the way you did division by hand in elementary school, before learning about decimals.
 
-Let's put these operators into action. In Python, they are work like this:
+Let's put these operators into action. In Python, they work like this:
 
 ```py
 3 + 5 # Outputs 8
@@ -120,7 +120,7 @@ catchphase='Jinkies'
 number="370"
 ```
 
-Strings also behave differently with basic operators. For example, the '+' symbol concatenates two strings (joins them together).k
+Strings also behave differently with basic operators. For example, the '+' symbol concatenates two strings (joins them together).
 
 ```py
 greeting="Oh, hi!"

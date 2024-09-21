@@ -101,7 +101,7 @@ It might not seem like much, but think about what just happened. The interpreter
 
 ## My second program
 
-I bet you are ecstatic right now, and you should be—you just commanded some rock imbued with energy to cast a specific array of photons using nothing words. But what if your program doesn't contain just one or two lines, but a hundred? Writing it in the REPL each time you need it would be a hassle. Luckily for you, programmers are some of the laziest people around, so they've got you covered.
+I bet you are ecstatic right now, and you should be—you just commanded some rock imbued with energy to cast a specific array of photons using nothing but words. But what if your program doesn't contain just one or two lines, but a hundred? Writing it in the REPL each time you need it would be a hassle. Luckily for you, programmers are some of the laziest people around, so they've got you covered.
 
 To store a program for later use, all you need is to write your code to a file and this file needs to have a special extension (.py). Let's recreate our program, but this time, we'll save it to a file.
 
@@ -115,7 +115,7 @@ print("Hello, world!")
 ```
 
 3. To save the file in Notepad, go to the File menu, click on Save, then in the "Save as type" box select "All formats", and in the "File name" field write your program's awesome name ensuring it has the .py extension. If you are not using Notepad just check how to save a file with the appropriate extension.
-4. Open the Anaconda Command Prompt or the regula Command Prompt
+4. Open the Anaconda Command Prompt or the regular Command Prompt
 5. Go to the directory where you saved your file (if it is not in the same place where the prompt starts). Check how to do so [here](https://www.lifewire.com/change-directories-in-command-prompt-5185508).
 6. Type the following in the command prompt (replace the program name with the one you chose):
 

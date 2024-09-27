@@ -198,8 +198,6 @@ In this code, the `elif` block is similar to the `if` statement, but it can only
 
 Try changing the program to reflect your favorite foods or beverages. Better yet, come up with an original program that helps you make a simple decision!
 
-Here's the revised section with the suggested improvements incorporated:
-
 ### A Matroska of Decisions
 
 Imagine you went to buy your delicious and healthy Flamin Hot Cheetos, and when you are about to pay, the cashier tells you they are on sale: you can get 2 for the price of 1! But you remember you are on a diet. As Eminem said, "Would you capture it or just let it slip?" Now you will need to make another decision. The first one was to go buy the Cheetos only if you had enough money. So we can think of this as a decision triggered by another decision. Of course, we can do that in programming languages; to do so, we just put an `if` block inside another one. For real! Let’s illustrate our Flaming Hot Cheetos journey:

@@ -23,6 +23,10 @@
   list-style-position: inside;
 }
 
+.markdown p code {
+  @apply bg-slate-500/10 p-1 rounded;
+}
+
 .markdown h2 {
   @apply text-3xl mt-12 mb-4 leading-snug;
 }

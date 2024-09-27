@@ -10,8 +10,6 @@ ogImage:
   url: "/assets/blog/thats-logic/cover.webp"
 ---
 
-## Ah, that's logic
-
 Whether it's deciding to rot in bed or head to the office, or choosing between the blue pill or the red one, life's all about making decisions. Programming is no different. The ability to take a specific set of steps instead of others, is known as conditional execution and is one of the key features that makes programming languages—and by extension, software—so useful. Consider this thoughtful examples about conditional execution:
 
 1. Restricting teenagers from accessing content targeted to a more mature audience by making them select their own age (an unbreakable spell).

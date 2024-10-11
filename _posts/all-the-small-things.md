@@ -99,7 +99,7 @@ healthy_shopping_list.append("Hot Pockets")
 Here are a couple of things to notice in the example:
 
 1. As you can see you need to tell `append` what to add to the list by writing `"Hot Pockets"` inside the parentheses.
-2. We call `append` differently than how we use other functions like `len()` or `print()`, that's because a method is tied to a data type, so `pop` is not available for every variable you have in your program, and to be able to use it we use the notation shown above.
+2. We call `append` differently than how we use other functions like `len()` or `print()`, that's because a method is tied to a data type, so `append` is not available for every variable you have in your program, and to be able to use it we use the notation shown above.
 
 ### Removal service
 

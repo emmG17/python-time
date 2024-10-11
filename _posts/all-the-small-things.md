@@ -1,13 +1,13 @@
 ---
 title: "All the small things"
 excerpt: "A few lessons ago, we briefly touched on collections like lists, tuples, and dictionaries—special types that can hold multiple values. In this post we'll dive deeper into how to use Python lists, and we'll explore one of the most important concepts in programming: iteration"
-coverImage: "/assets/blog/thats-logic/cover.webp"
+coverImage: "/assets/blog/all-the-small-things/cover.webp"
 date: "2024-10-10T03:25:00.000"
 author:
   name: Emmanuel G.
   picture: "/assets/blog/authors/emmg.png"
 ogImage:
-  url: "/assets/blog/thats-logic/cover.webp"
+  url: "/assets/blog/all-the-small-things/cover.webp"
 ---
 
 **Do you remember** how we use variables to store information, like names, prices, or even True/False values? That's super useful, but what if we need to store more than one thing at a time, like when you are returning home from a shopping spree with as many bags as you have fingers? Being limited to carrying one bag at a time won't be very practical, right? It would be like a wallet that can only hold a single bill.

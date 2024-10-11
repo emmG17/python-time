@@ -33,7 +33,7 @@ Now try creating a shopping list using a Python list. Here's mine as an example:
 healthy_shopping_list = ["Flamin Hot Cheetos", "Baja Blast", "Chocolate bar", "Frozen pizza", "Pork rinds", "A celery stalk"]
 ```
 
-Mine's really not a healthy shopping list and I should fix it. However, right now we only know how to create a list, we do not know how to access its items. **The next part is really important**. A list is like an office with PO Boxes, where each element goes inside a box, and this box has a number to identify it, so every time you need to retrieve a certain item you just look to the PO Box with the right number, well this number is the **index**
+Mine's really not a healthy shopping list and I should fix it. However, right now we only know how to create a list, we do not know how to access its items. **The next part is really important**. A list is like an office with PO Boxes, where each element goes inside a box, and this box has a number to identify it, so every time you need to retrieve a certain item you just look to the PO Box with the right number, well this number is the **index**.
 
 In Python indexes start from zero, and are added sequentially, to illustrate better let me show you what are the indexes in my shopping list:
 
@@ -50,7 +50,7 @@ IndexError: list index out of range
 
 So an easy way to know what index is a specific element is to subtract _one_ from the number it takes when you count them normally. In my list, `"Chocolate bar"` is in the third position, so its index is 3 - 1, that's 2 (quick maths!). And if you think about it, the last item's index is just the list length minus one.
 
-A quick way to know how long a list is just using the `len()` function (`len` stands for length), here's how you would use it to calculate the index of the last item from a list:
+A quick way to know how long a list is, is by using the `len()` function (`len` stands for length). Here's an example of how you would use `len` to calculate the index of the last item from a list:
 
 ```py
 healthy_shopping_list = ["Flamin Hot Cheetos", "Baja Blast", "Chocolate bar", "Frozen pizza", "Pork rinds", "A celery stalk"]
